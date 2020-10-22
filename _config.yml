@@ -100,7 +100,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 ## https://github.com/chaooo/hexo-theme-BlueLake
 ## https://chaooo.github.io/
-theme: BlueLake
+theme: jekyll-theme-minimal
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
