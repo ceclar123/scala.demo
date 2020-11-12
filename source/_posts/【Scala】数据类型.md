@@ -45,13 +45,15 @@ Scala完全面向对象语法，像Java中的基本数据类型（例如：int�
   - Scala.Null
     - Scala.Nothing
   
-  
+  ![](http://qjo63pkr5.hd-bkt.clouddn.com/Scala%E7%B1%BB%E7%BB%A7%E6%89%BF%E5%85%B3%E7%B3%BB.png)
 
 ## 字面量
 
 - 整形字面量
 
-  > 整型字面量用于 Int 类型，如果表示 Long，可以在数字后面添加 L 或者小写 l 作为后缀。Byte、Short需要显示声明并且不要越界
+  > 整型字面量用于 Int 类型，如果表示 Long，可以在数字后面添加 L 或者小写 l 作为后缀。Byte、Short需要显示声明并且不要越界。
+  >
+  > Scala不支持八进制字面量和以0开头的整数字面量
 
   ```scala
   val age1 = 1
